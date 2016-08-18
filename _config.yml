@@ -1,0 +1,14 @@
+layout_spectrum: 0.09170781
+typography_spectrum: 0.2601183
+color:
+  saturation: 0.664345
+  lightness: 0.2635077
+  brandStrength: 0.2378011
+  rhythmicContrast: 0.7772124
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+name: Xlab
