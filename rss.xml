@@ -4,8 +4,22 @@
         <description><![CDATA[Xlab]]></description>
         <link>https://thegrid.ai/xlab/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 18 Aug 2016 14:54:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2016 14:56:00 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/xlab/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[first post]]></title>
+            <description><![CDATA[<article><h1>first post</h1><h2>Do be or not to be</h2><p>Here is the post after the 2 front pages and informative things i wanted to say... "Good Morning"</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/798136ee150eb586a4a4cf203cda37af75c0058d.jpg"></article>]]></description>
+            <link>https://thegrid.ai/xlab/first-post/index.html</link>
+            <guid isPermaLink="false">940875a3-60cc-4476-abe8-766b2b50e256</guid>
+            <pubDate>Thu, 18 Aug 2016 14:55:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Klisoura]]></title>
+            <description><![CDATA[<article><h1>Klisoura</h1><p>to xorio pou den kimate pote</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/973e4f9c3674a6083c2dd4cd3745538132e62c5e.png"></article>]]></description>
+            <link>urn:uuid:85c29714-51ff-4fb3-b36b-5be9354f7cb8</link>
+            <guid isPermaLink="false">224ac163-8643-4585-a5bf-4e41eece11d9</guid>
+            <pubDate>Thu, 18 Aug 2016 14:55:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Radio Pi]]></title>
             <description><![CDATA[<article><h1>Radio Pi</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/44c2f3382fa924ad964a93bb9a4488790815b724.png"></article>]]></description>
