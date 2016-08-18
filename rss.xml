@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Xlab]]></title>
         <description><![CDATA[Xlab]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/xlab/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 18 Aug 2016 14:53:22 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 18 Aug 2016 14:54:21 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/xlab/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Radio Pi]]></title>
+            <description><![CDATA[<article><h1>Radio Pi</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/44c2f3382fa924ad964a93bb9a4488790815b724.png"></article>]]></description>
+            <link>urn:uuid:dc0be7f1-6992-4571-9d3b-bce8ea762335</link>
+            <guid isPermaLink="false">8c8e6cbb-e7b6-4ded-b2d3-7ba4597495ce</guid>
+            <pubDate>Thu, 18 Aug 2016 14:54:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Birds fighting ]]></title>
             <description><![CDATA[<article><h1>Birds fighting </h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/687507206273b6945c74466eb85719c9fbb99008.png"></article>]]></description>
